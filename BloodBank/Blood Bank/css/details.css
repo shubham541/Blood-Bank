@@ -1,0 +1,23 @@
+*{margin:0, padding:0}
+body{font-family:Courier new; font-size:16px; line-height:20px; color: #000;}
+
+.main{width:620px; margin:200px 420px auto; display:block;overflow:hidden;}
+
+.details {
+  border: 3px solid #999;
+  padding: 29px 64px;
+}
+.details h2 {
+  color: #000000;
+  font-size: 27px;
+  margin-left: 88px;
+  margin-top: -10px;
+  width: 396px;
+}
+.details table{border: 1px solid #FF0000;}
+.details table tr{border: 1px solid #FF0000;}
+.details table tr td {
+  border: 1px solid #ff0000;
+  box-shadow: 0px 0px 7px 0px #FF0000;
+}
+#sec{width:338px;}
